@@ -124,3 +124,5 @@ In summary, this project aims to harness the wealth of detailed housing data to 
 
 ### Let's embark on this data science journey to uncover valuable insights about housing prices in Ames, Iowa!
 
+How to run
+
